@@ -6,6 +6,16 @@ This repository contains the single-cell RNA-seq analysis code for the study of 
 
 The scRNA-seq datasets used in this study are publicly available.
 
+## Analysis example
+
+The scripts in this repository use **GSE165897** as an example dataset to demonstrate the complete single-cell analysis workflow, including quality control, integration, clustering, and downstream analysis.
+
+Other datasets listed below are provided for data availability and can be analyzed by adapting the input paths and sample metadata.
+
+## Data availability
+
+The scRNA-seq datasets used in this study are publicly available.
+
 | Dataset | Description | Source |
 |---|---|---|
 | GSE165897 | Human HGSOC scRNA-seq | [GEO GSE165897](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165897) |
