@@ -1,4 +1,4 @@
-# CAFs-in-high-grade-serous-ovarian-cancer-single-cell-analysis-code1.
+# High-grade-serous-ovarian-cancer-single-cell-analysis-code1.
 Senescent cancer-associated fibroblasts in high-grade serous ovarian cancer single-cell analysis code.
 This repository contains the single-cell RNA-seq analysis code for the study of senescent cancer-associated fibroblasts (CAFs) in high-grade serous ovarian cancer (HGSOC).
 
