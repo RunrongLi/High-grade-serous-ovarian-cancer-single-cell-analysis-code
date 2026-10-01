@@ -2,10 +2,6 @@
 Senescent cancer-associated fibroblasts in high-grade serous ovarian cancer single-cell analysis code.
 This repository contains the single-cell RNA-seq analysis code for the study of senescent cancer-associated fibroblasts (CAFs) in high-grade serous ovarian cancer (HGSOC).
 
-## Data availability
-
-The scRNA-seq datasets used in this study are publicly available.
-
 ## Analysis example
 
 The scripts in this repository use **GSE165897** as an example dataset to demonstrate the complete single-cell analysis workflow, including quality control, integration, clustering, and downstream analysis.
